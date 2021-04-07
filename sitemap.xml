@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.oliverxu.top/about/</loc>
+    <lastmod>2021-04-07T15:25:15+08:00</lastmod>
+  </url><url>
+    <loc>https://www.oliverxu.top/resource-index/</loc>
+    <lastmod>2021-04-07T15:24:49+08:00</lastmod>
+  </url><url>
+    <loc>https://www.oliverxu.top/tags/development/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.oliverxu.top/tags/go/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.oliverxu.top/tags/golang/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.oliverxu.top/notes/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.oliverxu.top/tags/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.oliverxu.top/tags/templates/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.oliverxu.top/notes/test1/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.oliverxu.top/tags/themes/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.oliverxu.top/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.oliverxu.top/tags/demo/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url><url>
@@ -11,13 +44,7 @@
     <loc>https://www.oliverxu.top/posts/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url><url>
-    <loc>https://www.oliverxu.top/tags/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url><url>
     <loc>https://www.oliverxu.top/posts/the-figure-shortcode/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url><url>
-    <loc>https://www.oliverxu.top/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url><url>
     <loc>https://www.oliverxu.top/posts/post-with-featured-image/</loc>
@@ -32,37 +59,13 @@
     <loc>https://www.oliverxu.top/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oliverxu.top/about-hugo/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.oliverxu.top/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.oliverxu.top/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.oliverxu.top/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.oliverxu.top/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.oliverxu.top/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.oliverxu.top/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.oliverxu.top/notes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.oliverxu.top/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.oliverxu.top/notes/test1/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.oliverxu.top/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.oliverxu.top/posts/migrate-from-jekyll/</loc>
