@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>golang on 风物长宜放眼量</title>
-    <link>https://www.oliverxu.top/tags/golang/</link>
+    <link>https://www.xzbang.top/tags/golang/</link>
     <description>Recent content in golang on 风物长宜放眼量</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.oliverxu.top/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.xzbang.top/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://www.oliverxu.top/notes/test1/</link>
+      <link>https://www.xzbang.top/notes/test1/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.oliverxu.top/notes/test1/</guid>
+      <guid>https://www.xzbang.top/notes/test1/</guid>
       <description>Hugo uses the excellent [Go][] [html/template][gohtmltemplate] library for its template engine. It is an extremely lightweight engine that provides a very small amount o</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://www.oliverxu.top/posts/goisforlovers/</link>
+      <link>https://www.xzbang.top/posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.oliverxu.top/posts/goisforlovers/</guid>
+      <guid>https://www.xzbang.top/posts/goisforlovers/</guid>
       <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
 This document is a brief primer on using Go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://www.oliverxu.top/posts/hugoisforlovers/</link>
+      <link>https://www.xzbang.top/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.oliverxu.top/posts/hugoisforlovers/</guid>
+      <guid>https://www.xzbang.top/posts/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
